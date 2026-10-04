@@ -120,7 +120,7 @@ Binary Search can be used in a **Hospital Management System** to quickly search 
 
 ### Output Screenshot
 
-![Hospital Patient Search Output](Output/Hospital_Output.png)
+![Hospital Patient Search Output](Output/Hospital_Output.png.JPG)
 
 ---
 
@@ -156,8 +156,7 @@ Binary Search can be used in a **College Examination System** to quickly search 
 
 ### Output Screenshot
 
-![Seat Number Search Output](Output/Seat_Output.png)
-
+![Seat Number Search Output](Output/Seat_Output.png.JPG)
 ---
 
 # Algorithm
