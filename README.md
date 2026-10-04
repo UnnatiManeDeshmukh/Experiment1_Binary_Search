@@ -84,7 +84,7 @@ Binary Search can be used in a **Library Management System** to quickly search f
 
 ### Output Screenshot
 
-![Library Book Search Output](Output/Library_Output.png)
+![Library Book Search Output](Output/Library_Output.png.JPG)
 
 ---
 
